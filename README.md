@@ -6,6 +6,7 @@ An intelligent Snake that **learns to play by itself** using a Neural Network ev
 <img width="1200" height="767" alt="image" src="https://github.com/user-attachments/assets/e9bfd3a8-94ee-4596-9fba-27027ac47530" />
 
 
+
 ## 🎯 What this project shows
 
 - Classic Snake game made with **Pygame**
