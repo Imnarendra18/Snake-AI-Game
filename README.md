@@ -3,7 +3,8 @@
 An intelligent Snake that **learns to play by itself** using a Neural Network evolved through a **Genetic Algorithm**.
 
 ![Snake AI Demo](snake-game.gif)  
-*(Best generation playing – replace with your own recording)*
+<img width="1200" height="767" alt="image" src="https://github.com/user-attachments/assets/e9bfd3a8-94ee-4596-9fba-27027ac47530" />
+
 
 ## 🎯 What this project shows
 
